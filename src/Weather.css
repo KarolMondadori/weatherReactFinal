@@ -1,0 +1,36 @@
+.container {
+text-align: center;
+}
+.Weather {
+    display: block;
+    margin: 5px 0 auto; 
+    text-align: center;
+    border: solid 1px rgba(128, 128, 128, 0.432);
+    border-radius: 8px;
+    width: 500px;
+    box-shadow: 5px 9px 5px rgba(0, 0, 0, 0.2);
+    background-color: rgba(95, 158, 160, 0.2);
+    font-family: 'Courier New', Courier, monospace;
+}
+.forecasthour {
+    display: block;
+    margin: 3px auto; 
+    text-align: center;
+    border: solid 1px rgba(128, 128, 128, 0.432);
+    border-radius: 8px;
+    width: 480px;
+    background-color: whitesmoke
+}
+li {
+    margin: 0px; 
+    list-style: none;
+}
+h1 {
+    margin-left: 20px;
+}
+.entercity {
+    margin: 10px;
+}
+.submitcity {
+    margin: 10px;
+}
