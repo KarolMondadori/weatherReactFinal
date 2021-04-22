@@ -9,7 +9,7 @@ function App() {
      <Weather defaultCity="Berlin" />
      <p>
         This project was coded by Karol Mondadori and is
-        <a href="https://github.com/KarolMondadori/weatherReactFinal" target="_blank"> open-source on GitHub </a>
+        <a href="https://github.com/KarolMondadori/weatherReactFinal" target="_blank" rel="noreferrer"> open-source on GitHub </a>
       </p>
       </div>
     </div>
