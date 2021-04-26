@@ -51,13 +51,18 @@ h1 {
 .Weather img {
     height: 80px;
     position: relative;
-    top: -12px;
+    top: -17px;
 }
-.Weather .tempNumber {
+.WeatherTemperature {
+    float:right;
+    margin-left: -60px;
+    margin-top: -10px;
+}
+.Weather .temperature {
     margin: 1px;
     font-size: 46px;
 }
-.Weather .tempUnit {
+.Weather .unit {
     position: relative;
     top: -22px;
 }
