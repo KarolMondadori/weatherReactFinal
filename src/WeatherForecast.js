@@ -24,7 +24,10 @@ export default function WeatherForecast(props) {
                         return (
                             <div className="col" key={index}>
                             < WeatherForecastDay data={dailyForecast}/>
-                            </div> ); }
+                            </div> );
+                            } else {
+                                return null;
+                            }
                         })}
                     
                 </div>
