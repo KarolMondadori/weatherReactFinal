@@ -51,7 +51,8 @@ h1 {
 .Weather img {
     height: 80px;
     position: relative;
-    top: -17px;
+    top: -14px;
+
 }
 .WeatherTemperature {
     float:right;
@@ -65,4 +66,10 @@ h1 {
 .Weather .unit {
     position: relative;
     top: -22px;
+}
+.WeatherForecast-temperature{
+    margin-top: -15px;
+}
+.temperature-min {
+    opacity: 0.7;
 }
